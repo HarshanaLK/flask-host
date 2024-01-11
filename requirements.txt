@@ -162,7 +162,6 @@ tensorboard-data-server==0.7.2
 tensorflow==2.12.0rc0
 tensorflow-datasets==4.9.3
 tensorflow-estimator==2.12.0
-tensorflow-intel==2.12.0rc0
 tensorflow-io-gcs-filesystem==0.31.0
 tensorflow-metadata==1.14.0
 termcolor==2.4.0
