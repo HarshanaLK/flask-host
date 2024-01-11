@@ -132,8 +132,6 @@ python-slugify==8.0.1
 python-socketio==5.10.0
 python-time==0.3.0
 pytz==2023.3.post1
-pywin32==306
-pywin32-ctypes==0.2.2
 PyYAML==6.0.1
 qrcode==7.4.2
 readme-renderer==42.0
