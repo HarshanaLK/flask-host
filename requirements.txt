@@ -1,6 +1,7 @@
-tensorflow
+tensorflow==2.12.0rc0
 numpy
 opencv-python
 flask
 keras
+keras-models==0.0.7
 pybase64
