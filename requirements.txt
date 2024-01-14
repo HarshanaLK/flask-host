@@ -6,7 +6,7 @@ keras-models==0.0.7
 numpy==1.23.5
 opencv-python==4.8.1.78
 setuptools-scm==8.0.4
-tensorflow==2.15.0.post1
+tensorflow==2.13.1
 
 
 
